@@ -1,7 +1,7 @@
 # My First Mobile App
 
-I am teaching myself React Native by making a series of mobile apps. 
+I am teaching myself React Native by making various mobile apps. 
 
-The first is focus time, a pomodoro timer.
+The first is a pomodoro timer.
 
 Technologies used include JavaScript, React Native, and Expo. 
